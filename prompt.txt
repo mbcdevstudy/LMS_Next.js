@@ -1,0 +1,88 @@
+Create a modern, high-converting landing page design for an LMS (Learning Management System) platform.
+
+Style:
+- Futuristic neon cyber theme
+- Dark background with glowing gradients (blue, purple, pink neon accents)
+- Glassmorphism cards
+- Soft glowing shadows
+- Smooth UI
+- Clean modern typography (Inter / Poppins style)
+- Subtle animated glow effects
+- Professional SaaS feel
+
+Brand name: EduNova
+
+Target audience:
+Students, developers, and professionals who want to learn tech skills online.
+
+Sections required:
+
+1) Hero Section:
+- Strong headline: "Upgrade Your Skills. Unlock Your Future."
+- Short subheading about interactive online courses
+- CTA buttons: "Start Learning" (primary neon glow) and "Explore Courses" (outline glow)
+- Right side illustration: futuristic dashboard mockup with neon highlights
+- Background glowing gradient or abstract tech shapes
+
+2) Trusted By Section:
+- Logos of companies (placeholder logos in grayscale neon hover effect)
+
+3) Features Section (3–6 cards):
+- Interactive Learning
+- Progress Tracking Dashboard
+- Certificates
+- Community Support
+- AI Personalized Learning
+- Mobile Friendly
+Each card should have neon border glow and hover animation.
+
+4) Popular Courses Section:
+- 3–6 course cards
+- Course thumbnail
+- Title
+- Instructor
+- Rating
+- Price
+- Enroll button with glow effect
+
+5) How It Works (3 steps):
+- Sign Up
+- Choose Course
+- Start Learning
+Use minimal glowing icons and step indicators.
+
+6) Testimonials Section:
+- 3 student reviews
+- Profile image circle
+- Name + Role
+- Short review
+- Neon glass card style
+
+7) Pricing Section:
+- 3 pricing tiers (Basic, Pro, Premium)
+- Highlight middle plan with stronger neon glow
+- Monthly / Yearly toggle UI
+
+8) FAQ Section:
+- Collapsible accordion
+- Smooth glow expand animation
+
+9) Final CTA Section:
+- Big glowing banner
+- Headline: "Start Your Learning Journey Today"
+- CTA button with strong neon glow
+
+10) Footer:
+- Logo
+- Navigation links
+- Social media icons with glow hover
+- Newsletter subscription field
+
+Design Requirements:
+- Fully responsive (mobile, tablet, desktop)
+- Clean spacing
+- Modern SaaS layout
+- High contrast readability
+- No cartoonish elements
+- No nano banana style
+- Professional tech startup aesthetic
