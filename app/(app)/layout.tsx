@@ -11,7 +11,7 @@ function AppLayout({ children }: { children: React.ReactNode }) {
             appearance={{
                 theme: dark,
             }}>
-            <div>
+            <div className="pt-12 md:pt-16">
                 <Navbar />
 
                 {children}

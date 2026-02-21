@@ -8,8 +8,8 @@ import { Footer } from "@/components/Footer";
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-background text-foreground font-sans selection:bg-primary/30">
-      <Navbar />
+    <main className="min-h-screen bg-background text-foreground font-sans mt-30 selection:bg-primary/30">
+
       <Hero />
       <Features />
       <Courses />
