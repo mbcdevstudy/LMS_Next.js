@@ -34,7 +34,7 @@ export default function UserCourse({ courses, userTier }: CourseListProps) {
     const tierStyle = TIER_STYLES[userTier] || TIER_STYLES.free;
 
     return (
-        <div className="space-y-8">
+        <div className="mt-20">
             <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 border-b border-border/50 pb-6">
                 <div>
                     <h1 className="text-3xl font-bold tracking-tight">My Dashboard</h1>
