@@ -2,6 +2,7 @@ import { ClerkProvider } from '@clerk/nextjs'
 import React from 'react'
 import { dark } from '@clerk/themes'
 import { SanityLive } from '@/sanity/lib/live'
+import { Navbar } from '@/components/Navbar'
 
 function AppLayout({ children }: { children: React.ReactNode }) {
     return (
@@ -11,6 +12,7 @@ function AppLayout({ children }: { children: React.ReactNode }) {
                 theme: dark,
             }}>
             <div>
+                <Navbar />
 
                 {children}
                 <SanityLive />

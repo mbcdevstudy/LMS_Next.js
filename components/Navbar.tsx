@@ -17,9 +17,12 @@ export function Navbar() {
                 <div className="hidden md:flex items-center gap-8">
 
                     <SignedIn>
-                        <Link href="#" className="text-sm font-medium text-muted-foreground hover:text-primary transition-colors">
+                        <Link href="/courses" className="text-sm font-medium text-muted-foreground hover:text-primary transition-colors">
                             Courses
                         </Link>
+
+
+
 
                     </SignedIn>
 
@@ -29,9 +32,7 @@ export function Navbar() {
                     <Link href="#" className="text-sm font-medium text-muted-foreground hover:text-primary transition-colors">
                         Pricing
                     </Link>
-                    <Link href="#" className="text-sm font-medium text-muted-foreground hover:text-primary transition-colors">
-                        Enterprise
-                    </Link>
+
 
                 </div>
                 <UserButton />
